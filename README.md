@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickmatsnev
 - 👀 I’m interested in Web and Software Engineering and Linguistics
-- 🌱 I’m currently learning Software Engineering at FIT CTU in Prague and Radboud University in Nijmegen
+- 🌱 I’m currently learning Software Engineering at Radboud University in Nijmegen
 - 💞️ I’m looking to collaborate on Java servers
 - 📫 How to reach me +420 731 048 150 or matsnev2001@ya.ru
 - :netherlands: Currently in Nijmegen
